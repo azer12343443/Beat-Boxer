@@ -5,12 +5,13 @@
 }
 
 body {      
+  padding-top:100px;
   text-align: center;
   background-color: #DBEDF3;
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 6rem;
   color: #494c4d;
   font-family: "Limelight", sans-serif;
   text-shadow: 3px 0 #3204da;
