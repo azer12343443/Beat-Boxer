@@ -1,10 +1,12 @@
-html{
-  background-color: white;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-body {     
-  border-radius:20px;  
+body {      
   text-align: center;
+  background-color: #DBEDF3;
 }
 
 h1 {
@@ -15,9 +17,13 @@ h1 {
 
 }
 
-footer {
-  color: #18191a;
-  font-family: sans-serif;
+footer {  
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Funnel Display", sans-serif;
+  position: absolute;  
+  width: 100%;
+  bottom: 0;
 }
 
 .w {
