@@ -27,24 +27,24 @@ footer {
   bottom: 0;
 }
 
-.w {
+.l {
   background-image: url("images/crash.png"); 
   background-size: cover; 
 }
 
-.a {
+.s {
   background-image: url("images/kick.png"); 
   background-size: cover;
 
 }
 
-.s {
+.h {
   background-image: url("images/snare.png"); 
   background-size: cover;
 
 }
 
-.d {
+.f {
   background-image: url("images/tom1.png"); 
   background-size: cover; 
 }
@@ -60,7 +60,7 @@ footer {
 
 }
 
-.l {
+.d {
   background-image: url("images/tom4.png"); 
   background-size: cover;  
 }
@@ -101,3 +101,10 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.pressed{
+  box-shadow: 1 3px 4px 0 #05e610;
+  opacity: 0.5;
+}
+
+
